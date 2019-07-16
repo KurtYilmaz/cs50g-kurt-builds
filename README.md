@@ -1,5 +1,5 @@
 # cs50g-kurt-builds
-Windows builds from my cs50g-kurt repository. These games are clones of other popular games, and were made for Harvard's CS50G course. Source code, assignment discriptions, and other information can be found at https://github.com/KurtYilmaz/cs50g-kurt.
+Windows builds from my cs50g-kurt repository. These games are clones of other popular games, and were made for Harvard's CS50G (GD50) course. Source code, assignment discriptions, and other information can be found at https://github.com/KurtYilmaz/cs50g-kurt.
 
 ## Assignment 0 - Pong
 
