@@ -1,6 +1,8 @@
 # cs50g-kurt-builds
 Windows builds from my cs50g-kurt repository. These games are clones of other popular games, and were made for Harvard's CS50G (GD50) course. Source code, assignment discriptions, and other information can be found at https://github.com/KurtYilmaz/cs50g-kurt.
 
+Packages for Debian and related Linux distributions (Ubuntu, Linux Mint, Elementary OS) coming soon. Other linux distrubution packages will not be directly supported here. Please follow the link above and follow the build instructions to get it running on your machine. [Unfortunately, it is difficult to package these games for other distributions](https://love2d.org/wiki/Game_Distribution#Distribution_for_Linux)
+
 ## Assignment 0 - Pong
 
   > Up arrow key - move up
